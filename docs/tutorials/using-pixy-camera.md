@@ -1,4 +1,4 @@
----
+
 title: Using Pixy/Pixy2 camera for LEGO Mindstorms
 group: hardware-extras
 author: "@KWSmit"
